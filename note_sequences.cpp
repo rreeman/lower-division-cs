@@ -22,6 +22,7 @@ The program outputs the number of possible sequences
 #include <string>
 #include <vector>       
 #include <sstream>      // for istringstream (to split strings)
+#include <limits>       // for numeric_limits (print_with_pause)
 
 using namespace std;
 
